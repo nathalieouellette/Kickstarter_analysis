@@ -4,6 +4,32 @@ Deliverable #1: Outcomes Based on Launch Date Chart
 Deliverable #2: Outcomes Based on Goals Chart
 Deliverable #3: A written analysis of the results (README.md)
 
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
+
+
+
 ## Category Outcomes
 There is overall 4114 Kickstarter attempts around the world. Out of the 4114 Kickstarter attempts there is 340 canceled, 1530 failed, 50 live, 2185 successful. Overall, the most successful kickstarter campaigns are theaters with 839 successful Kickstarters. The majority reason for the kickstarters to fail is by having a large goal for the kickstarter with low pledges and backers. Ideally, having low goals with high backers are more likely to have successful kickstarters. 
 
