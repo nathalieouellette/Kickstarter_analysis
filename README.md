@@ -6,8 +6,6 @@
 The purpose of the report was to determine how different campaigns succeed or failed according to their launched date and their funding goal.
 
 ## Analysis and Challenges
-From the year function, I was able to create a pivot table with filtering the "Years" and "Parent Category", having "Outcomes" in the column and values, and "Date Created Conversion" in rows. 
-
 ### Analysis of Outcomes Based on Launch Date
 The first analysis was to determine the campaign outcomes based on launched date by using the pivot table and a graph. The first step of analysis was adding to the worksheet was the YEAR function. From this calculation, I was able to select the whole table on Kickstarter worksheet to create the pivot table. This pivot table shows the number of "successful", "Failed", "Canceled", and Grand Total of each month every year for theater category. The line graph show this information but in a visual way.
 
@@ -20,10 +18,4 @@ For the first deliverable, my first challenge is was using the YEAR function. I 
 For the second deliverable, my third challenge was to properly display the "Number Successful," "Number Failed," and "Number Canceled" through the COUNTIFS function. I wrote notes about this function but when I first came across this function, I completely forgot how to use. I used the hint video to show me how to use the function and how to check the equation that I wrote out by writing the sum and the function without a range. 
 
 ## Results
-The two conlusions about the Outcomes based on Launched Date was the peak successful month is May that is about 111 successful kickstarters in theater. The peaked failed months May, June, July, August, and October that is about 50 failed kickstarters in theater. 
-
-The Outcomes based on Goals is that the line bar demonstrated that the higher the kickstarter goal, the higher chance that the kickstarter will fail. From 15000 to 34999 and 39999 to 44999, the percentage fail is higher than percentage successful. 
-
-The limitation of this dataset is the still live sessions to not be able to add that to the data set and the cancellations restrict the dataset that we could have. We have no income possible data from this set. 
-
-Some possible tables and graphs that we could create is
+The two conlusions about the Outcomes based on Launched Date was the peak successful month is May that is about 111 successful kickstarters in theater. The peaked failed months May, June, July, August, and October that is about 50 failed kickstarters in theater. The Outcomes based on Goals is that the line bar demonstrated that the higher the kickstarter goal, the higher chance that the kickstarter will fail. From 15000 to 34999 and 39999 to 44999, the percentage fail is higher than percentage successful. The limitation of this dataset is the still live sessions to not be able to add that to the data set and the cancellations restrict the dataset that we could have. We have no income possible data from this set. Some possible tables and graphs that we could create is stacked bar graph of number of outsomes for each month. 
